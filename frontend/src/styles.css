@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+    url(image6.jpg);
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
